@@ -6,6 +6,6 @@ public class Main {
         Scanner scn = new Scanner(System.in);
         int a = scn.nextInt();
         System.out.println(Math.round(a*0.26418*10)/10f);
-        System.out.println("123");
+      
     }
 }
